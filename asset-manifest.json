@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clima-react/static/css/main.377f7aca.css",
+    "main.js": "/clima-react/static/js/main.fee1cee2.js",
+    "static/js/787.73737b4a.chunk.js": "/clima-react/static/js/787.73737b4a.chunk.js",
+    "index.html": "/clima-react/index.html",
+    "main.377f7aca.css.map": "/clima-react/static/css/main.377f7aca.css.map",
+    "main.fee1cee2.js.map": "/clima-react/static/js/main.fee1cee2.js.map",
+    "787.73737b4a.chunk.js.map": "/clima-react/static/js/787.73737b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.377f7aca.css",
+    "static/js/main.fee1cee2.js"
+  ]
+}
