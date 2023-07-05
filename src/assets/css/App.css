@@ -1,0 +1,40 @@
+body{
+  background-color: #282c34;
+}
+.App{
+  text-align: center;
+  }
+
+.input-group{
+  width: 60%;
+}
+
+.card{
+  max-width: 70%;
+}
+
+.card-title{
+  position:absolute;
+  padding: 30px;
+  margin-top: 20px;
+} 
+  
+.card-date{
+    position: absolute;
+    padding-left: 50px;
+    margin-top: 80px;
+  }
+.card-temp{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 220px;
+
+  
+    
+  }
+.card-descp{
+position: absolute;
+padding-left: 10px;   
+margin-top: 260px;
+
+}
